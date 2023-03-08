@@ -2,7 +2,7 @@
 marp: true
 ---
 
-# Slide 1 <!-- fit -->
+# Slide 1 - Slicer <!-- fit -->
 
 ---
 
